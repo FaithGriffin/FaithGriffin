@@ -9,7 +9,7 @@
 
 ### What I've been doing lately
 - ✏️ learning everything I can with so little time hehe😴
-- 🧬 reconstructing a phylogenetic tree of clinical strains of Candida albicans in collaboration with **[DLSU's Bioinformatics Lab](https://bioinfodlsu.com/)**
+- 🧬 reconstructing a phylogenetic tree of clinical strains of _Candida albicans_ in collaboration with **[DLSU's Bioinformatics Lab](https://bioinfodlsu.com/)**
 - 📨 working on a Facebook messenger bot for a local pastry shop - **[Walang Tatak](https://www.facebook.com/WalangTatak)**
 
 ### Languages and Tools
