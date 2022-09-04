@@ -19,7 +19,7 @@
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="Python" width="50" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2020/12/python-logo.png" alt="Python" width="50" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="Pictures/PHP.png" alt="PHP" width="50" height="40"/> </a> 
 <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="Pictures/Fortran.png" alt="fortran" width="40" height="40"/> </a> 
 <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="Pictures/Prolog.png" alt="prolog" width="40" height="40"/> </a>
